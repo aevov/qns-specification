@@ -46,12 +46,7 @@ console.log(result.cip); // QmXxxx...
 
 ## Pricing Tiers
 
-| Tier | Length | Price |
-|------|--------|-------|
-| Standard | 6+ chars | $9.99/year |
-| Short | 4-5 chars | $50-300/year |
-| Premium | 3 chars | $300-3,000 (one-time) |
-| Ultra-Premium | 2 chars | $5,000-15,000 (one-time) |
+Pleaase visit: http://my.quantumcloud.one for updated information.
 
 ## Browser Extension
 
