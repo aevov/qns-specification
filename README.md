@@ -60,7 +60,7 @@ QNS is pending submission to IETF for standardization as part of the Quantum Web
 
 This specification is released under [CC BY 4.0](LICENSE).
 
-## Links
+## Links (coming soon)
 
 - **Cr8OS Cloud**: https://cr8os.cloud
 - **QuantumCloud**: https://quantumcloud.one
