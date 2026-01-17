@@ -54,7 +54,7 @@ Available for Chrome, Firefox, Edge, and Brave. Enables transparent `.q` domain 
 
 ## Standards Track
 
-QNS is being submitted to IETF for standardization as part of the Quantum Web (Web 5) initiative.
+QNS is pending submission to IETF for standardization as part of the Quantum Web (Web 5) initiative.
 
 ## License
 
