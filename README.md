@@ -18,7 +18,7 @@ QNS resolves `.q` domains to Content-Identified Pointers (CIPs) through a global
 | [SPECIFICATION.md](SPECIFICATION.md) | Full protocol specification |
 | [QNS-Protocol-Specification-v1.0.pdf](QNS-Protocol-Specification-v1.0.pdf) | PDF version for distribution |
 
-## Quick Start
+## Quick Start (coming soon)
 
 ### Register a Domain
 
@@ -46,7 +46,7 @@ console.log(result.cip); // QmXxxx...
 
 ## Pricing Tiers
 
-Pleaase visit: http://my.quantumcloud.one for updated information.
+Pleaase visit: https://my.quantumcloud.one for updated information.
 
 ## Browser Extension
 
