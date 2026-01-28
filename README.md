@@ -48,7 +48,7 @@ console.log(result.cip); // QmXxxx...
 
 Pleaase visit: https://my.quantumcloud.one for updated information.
 
-## Browser Extension
+## Browser Extension (coming soon)
 
 Available for Chrome, Firefox, Edge, and Brave. Enables transparent `.q` domain resolution.
 
